@@ -17,12 +17,6 @@ Click on the image below to watch a gameplay video of SmileQuest-3D:
 - **Hazards**: Poison pools and spike traps inflict instant damage.  
 - **Levels**: Three handcrafted arenas with rising difficulty.
 
-## Future Development
-- ➕ More levels with diverse themes and enemy types  
-- 🔨 Additional weapons, power-ups and special attacks  
-- 🤝 Local co-op multiplayer mode  
-- 📱 Mobile build for Android & iOS
-
 ## Installation
 1. Install **Unity 2021.3 LTS** (or later) from https://unity.com/download  
 2. Clone this repository:
@@ -31,7 +25,3 @@ Click on the image below to watch a gameplay video of SmileQuest-3D:
    ```
 3. Open **Unity Hub**, click **Add**, select the cloned folder, then launch the project.  
 4. Press **Play** in the Unity Editor to start.
-
-## Contributions
-
-Contributions are welcome! If you find a bug or have an idea, please open an issue or submit a pull request. For major features, start a discussion in Issues first.
