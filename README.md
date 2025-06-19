@@ -1,5 +1,5 @@
-# SmileQuest-3D
-SmileQuest-3D is a 3D first-person melee game created in Unity. The goal is to collect all 3 stars or reach the finish line by defeating “Smiles” enemies and avoiding hazards like poison pools and spike traps. It currently features three unique levels.
+# Dungeon Dash
+Dungeon Dash is a 3D first-person melee game created in Unity. The goal is to collect all 3 stars or reach the finish line by defeating “Smiles” enemies and avoiding hazards like poison pools and spike traps. It currently features three unique levels.
 
 ## About
 This project started as a Unity learning exercise to explore first-person combat and level design.  
