@@ -1,0 +1,45 @@
+# Build results
+/[Bb]uild/
+/[Bb]uilds/
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]in/
+/UserSettings/
+
+# Visual Studio / MonoDevelop
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+
+# Unity3D generated meta files
+*.pidb.meta
+*.suo
+*.user
+*.unityproj
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# /[Aa]ssets/AssetStoreTools*
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Git LFS locks
+*.lock
